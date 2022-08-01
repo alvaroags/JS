@@ -1,0 +1,41 @@
+			*{
+				padding: 0px;
+				margin: 0px;
+			}
+			img{
+				width: 800px;
+				height: 533px;
+			}
+			h3, h1, p{
+				margin: 0px 10px 10px 0px;
+				font-family: Verdana;
+			}
+            p{
+                font-size: 20px;
+                text-align: justify;
+            }
+            .texto{
+                padding: 0px 20px 20px 20px;
+		
+            }
+	    .seta{
+		position: absolute;
+		top: 80%;
+		left: 84%;
+		display: inline-flex;
+		}
+	    .seta img{
+		width: 100px;
+		height: 100px;	
+		
+		}
+            .conteiner{
+                padding: 20px;
+                margin: auto;
+		margin-top: 50px;
+                background-color: aquamarine;
+                width:  1200px;
+                height: 535px;
+                display: flex;
+		position: relative;
+            }
